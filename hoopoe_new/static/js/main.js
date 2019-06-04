@@ -7,6 +7,9 @@ $(window).scroll(function() {
 $(".slider").slick({
   dots: true,
   lazyLoad: "ondemand",
+  // centerMode: true,
+  autoplay: true,
+  adaptiveHeight: true,
   infinite: true,
   speed: 500,
   fade: true,
