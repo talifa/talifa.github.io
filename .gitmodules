@@ -1,0 +1,6 @@
+[submodule "hoopoe-studio"]
+	path = hoopoe-studio
+	url = git@github.com:talifa/hoopoe-studio.git
+[submodule "hoopoe"]
+	path = hoopoe
+	url = git@github.com:talifa/hoopoe-studio.git
