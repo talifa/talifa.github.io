@@ -6,6 +6,7 @@ $(window).scroll(function() {
 });
 $(".slider").slick({
   dots: true,
+  lazyLoad: "ondemand",
   infinite: true,
   speed: 500,
   fade: true,
