@@ -6,7 +6,7 @@ $(window).scroll(function() {
 });
 $(".slider").slick({
   dots: true,
-  lazyLoad: "ondemand",
+  // lazyLoad: "ondemand",
   // centerMode: true,
   autoplay: true,
   adaptiveHeight: true,
