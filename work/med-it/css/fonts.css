@@ -1,0 +1,47 @@
+/* @font-face {
+  font-family: "Muller";
+  src: url("../assets/fonts/Muller/light/light.eot");
+  src: url("../assets/fonts/Muller/light/light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Muller/light/light.woff") format("woff"),
+    url("../assets/fonts/Muller/light/light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Muller";
+  src: url("../assets/fonts/Muller/regular/regular.eot");
+  src: url("../assets/fonts/Muller/regular/regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Muller/regular/regular.woff") format("woff"),
+    url("../assets/fonts/Muller/regular/regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Muller";
+  src: url("../assets/fonts/Muller/medium/medium.eot");
+  src: url("../assets/fonts/Muller/medium/medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Muller/medium/medium.woff") format("woff"),
+    url("../assets/fonts/Muller/medium/medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Muller";
+  src: url("../assets/fonts/Muller/bold/bold.eot");
+  src: url("../assets/fonts/Muller/bold/bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Muller/bold/bold.woff") format("woff"),
+    url("../assets/fonts/Muller/bold/bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+} */
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
